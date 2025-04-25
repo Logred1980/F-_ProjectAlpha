@@ -1,0 +1,28 @@
+2025-04-25 07:10:59.9595|DEBUG|Program|location of wsfscservice is: C:\Users\ipolcz\.nuget\packages\websharper.fsharp\9.0.0.547\tools\net8.0\win-x64 (server side)
+2025-04-25 07:10:59.9595|DEBUG|Program|pipename is: 419de4c2e751cc881d59212d7c6488a3 (server side)
+2025-04-25 07:10:59.9640|DEBUG|Program|Compiling C:\Users\ipolcz\source\repos\Project21Game\Project21Game\Project21Game.fsproj
+2025-04-25 07:11:01.3037|TRACE|Program|Server sends: n: F# compilation: 00:00:01.3490104
+2025-04-25 07:11:02.2478|TRACE|Program|Server sends: n: Checking project: 00:00:00.9441430
+2025-04-25 07:11:02.2478|TRACE|Program|Server sends: n: Waiting on merged metadata: 00:00:00.0063086
+2025-04-25 07:11:02.3955|TRACE|Program|Server sends: n: Parsing with FCS: 00:00:00.1413856
+2025-04-25 07:11:02.4047|TRACE|Program|Server sends: n: Analyzing function arguments: 00:00:00.0092078
+2025-04-25 07:11:02.4209|TRACE|Program|Server sends: n: Resolving names: 00:00:00.0162365
+2025-04-25 07:11:02.4370|TRACE|Program|Server sends: n: WebSharper translation: 00:00:00.0161142
+2025-04-25 07:11:02.4541|TRACE|Program|Server sends: n: Source position transformations: 00:00:00.0170439
+2025-04-25 07:11:02.4541|TRACE|Program|Server sends: n: Packaging assembly: 00:00:00.0057040
+2025-04-25 07:11:02.5072|TRACE|Program|Server sends: n: Computing metadata: 00:00:00.0474202
+2025-04-25 07:11:02.5303|TRACE|Program|Server sends: n: Writing reexports root.js: 00:00:00.0231330
+2025-04-25 07:11:02.5303|TRACE|Program|Server sends: n: Writing Project21Game.Deck.js: 00:00:00.0079007
+2025-04-25 07:11:02.5433|TRACE|Program|Server sends: n: Writing $StartupCode_Deck.js: 00:00:00.0050227
+2025-04-25 07:11:02.5707|TRACE|Program|Server sends: n: Writing Project21Game.GameLogic.GameState.js: 00:00:00.0274667
+2025-04-25 07:11:02.5931|TRACE|Program|Server sends: n: Writing Project21Game.GameLogic.js: 00:00:00.0224266
+2025-04-25 07:11:02.6075|TRACE|Program|Server sends: n: Writing Project21Game.Server.js: 00:00:00.0144110
+2025-04-25 07:11:02.6075|TRACE|Program|Server sends: n: Writing Project21Game.Client.Phase.js: 00:00:00.0077112
+2025-04-25 07:11:02.6075|TRACE|Program|Server sends: n: Writing Project21Game.Client.js: 00:00:00.0025396
+2025-04-25 07:11:02.8419|TRACE|Program|Server sends: n: Writing .d.ts files: 00:00:00.2240660
+2025-04-25 07:11:02.8419|TRACE|Program|Server sends: n: Hashing resources: 00:00:00.0042008
+2025-04-25 07:11:02.9835|TRACE|Program|Server sends: n: Serializing metadata: 00:00:00.1374004
+2025-04-25 07:11:03.0231|TRACE|Program|Server sends: n: Writing resources into assembly: 00:00:00.0395542
+2025-04-25 07:11:03.0277|TRACE|Program|Server sends: n: Unpacking into C:\Users\ipolcz\source\repos\Project21Game\Project21Game\wwwroot
+2025-04-25 07:11:03.6875|TRACE|Program|Server sends: n: Unpacking: 00:00:00.6644999
+2025-04-25 07:11:03.7063|TRACE|Program|Server sends: x: 0
