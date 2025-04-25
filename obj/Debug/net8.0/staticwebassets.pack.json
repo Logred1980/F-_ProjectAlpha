@@ -1,0 +1,1449 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\Project21Game\\$Generated.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\Project21Game\\$Generated.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\Project21Game\\$StartupCode_Deck.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\Project21Game\\$StartupCode_Deck.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\Project21Game\\Project21Game.Client.Phase.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\Project21Game\\Project21Game.Client.Phase.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\Project21Game\\Project21Game.Client.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\Project21Game\\Project21Game.Client.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\Project21Game\\Project21Game.Deck.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\Project21Game\\Project21Game.Deck.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\Project21Game\\Project21Game.GameLogic.GameState.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\Project21Game\\Project21Game.GameLogic.GameState.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\Project21Game\\Project21Game.GameLogic.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\Project21Game\\Project21Game.GameLogic.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\Project21Game\\Project21Game.Server.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\Project21Game\\Project21Game.Server.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\Project21Game\\root.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\Project21Game\\root.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.AspNetCore\\WebSharper.AspNetCore.IRemotingService.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.AspNetCore\\WebSharper.AspNetCore.IRemotingService.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.AspNetCore\\WebSharper.AspNetCore.IRemotingService`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.AspNetCore\\WebSharper.AspNetCore.IRemotingService`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.AspNetCore\\WebSharper.AspNetCore.ISiteletService.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.AspNetCore\\WebSharper.AspNetCore.ISiteletService.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.AspNetCore\\WebSharper.AspNetCore.IWebSharperService.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.AspNetCore\\WebSharper.AspNetCore.IWebSharperService.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Core.JavaScript\\Runtime.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Core.JavaScript\\Runtime.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Core.JavaScript\\Runtime.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Core.JavaScript\\Runtime.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Sitelets\\$StartupCode_Router.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Sitelets\\$StartupCode_Router.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.Http.IPostedFile.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.Http.IPostedFile.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.Http.ParameterCollection.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.Http.ParameterCollection.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.IRouter`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.IRouter`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.IWebsite`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.IWebsite`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.List.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.List.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.PathUtil.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.PathUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.Route.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.Route.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.Router.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.Router.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.RouterModule.BodyTextNeededForRoute.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.RouterModule.BodyTextNeededForRoute.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.RouterModule.IListArrayConverter.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.RouterModule.IListArrayConverter.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.RouterModule.ListArrayConverter`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.RouterModule.ListArrayConverter`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.RouterModule.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.RouterModule.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.RouterOperators.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.RouterOperators.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.Router`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.Router`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.ServerInferredOperators.IOptionConverter.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.ServerInferredOperators.IOptionConverter.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.Specialization.IGeneric`2.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.Specialization.IGeneric`2.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.StringEncoding.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Sitelets\\WebSharper.Sitelets.StringEncoding.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\$StartupCode_Concurrency.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\$StartupCode_Concurrency.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\$StartupCode_Console.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\$StartupCode_Console.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\$StartupCode_JavaScript.Pervasives.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\$StartupCode_JavaScript.Pervasives.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\$StartupCode_Remoting.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\$StartupCode_Remoting.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.Array2DModule.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.Array2DModule.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.ArrayModule.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.ArrayModule.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.FSharpList.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.FSharpList.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.FSharpList`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.FSharpList`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.FSharpMap`2.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.FSharpMap`2.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.FSharpSet.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.FSharpSet.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.FSharpSet`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.FSharpSet`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.ListModule.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.ListModule.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.MapModule.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.MapModule.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.SeqModule.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.SeqModule.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.SetModule.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Collections.SetModule.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Control.CommonExtensions.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Control.CommonExtensions.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Control.EventModule.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Control.EventModule.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Control.FSharpDelegateEvent`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Control.FSharpDelegateEvent`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Control.FSharpEvent`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Control.FSharpEvent`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Control.FSharpMailboxProcessor`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Control.FSharpMailboxProcessor`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Control.IDelegateEvent`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Control.IDelegateEvent`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Control.LazyExtensions.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Control.LazyExtensions.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Control.ObservableModule.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Control.ObservableModule.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Control.TaskBuilder.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Control.TaskBuilder.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Control.TaskBuilderBase.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Control.TaskBuilderBase.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.CompilerServices.RuntimeHelpers.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.CompilerServices.RuntimeHelpers.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.ExtraTopLevelOperators.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.ExtraTopLevelOperators.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.FSharpChoice`2.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.FSharpChoice`2.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.FSharpChoice`3.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.FSharpChoice`3.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.FSharpChoice`4.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.FSharpChoice`4.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.FSharpChoice`5.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.FSharpChoice`5.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.FSharpChoice`6.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.FSharpChoice`6.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.FSharpChoice`7.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.FSharpChoice`7.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.FSharpOption`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.FSharpOption`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.FSharpRef`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.FSharpRef`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.FSharpResult`2.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.FSharpResult`2.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.FSharpValueOption`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.FSharpValueOption`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.LanguagePrimitives.IntrinsicFunctions.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.LanguagePrimitives.IntrinsicFunctions.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.MatchFailureException.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.MatchFailureException.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.Operators.OperatorIntrinsics.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.Operators.OperatorIntrinsics.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.Operators.Unchecked.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.Operators.Unchecked.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.Operators.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.Operators.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.OptionModule.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.OptionModule.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.ResultModule.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.ResultModule.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.StringModule.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.StringModule.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.ValueOption.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Core.ValueOption.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Linq.QueryBuilder.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\Microsoft.FSharp.Linq.QueryBuilder.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.AggregateException.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.AggregateException.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.ArgumentException.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.ArgumentException.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.ArgumentNullException.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.ArgumentNullException.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.ArgumentOutOfRangeException.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.ArgumentOutOfRangeException.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Array.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Array.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Byte.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Byte.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Char.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Char.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.Comparer`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.Comparer`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.Dictionary`2.KeyCollection.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.Dictionary`2.KeyCollection.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.Dictionary`2.ValueCollection.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.Dictionary`2.ValueCollection.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.Dictionary`2.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.Dictionary`2.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.EqualityComparer`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.EqualityComparer`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.HashSet`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.HashSet`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.ICollection`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.ICollection`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.IComparer`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.IComparer`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.IDictionary`2.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.IDictionary`2.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.IEnumerable`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.IEnumerable`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.IEnumerator`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.IEnumerator`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.IEqualityComparer`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.IEqualityComparer`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.IList`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.IList`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.IReadOnlyCollection`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.IReadOnlyCollection`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.IReadOnlyDictionary`2.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.IReadOnlyDictionary`2.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.ISet`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.ISet`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.KeyNotFoundException.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.KeyNotFoundException.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.LinkedList`1.Enumerator.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.LinkedList`1.Enumerator.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.LinkedList`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.LinkedList`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.List`1.Enumerator.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.List`1.Enumerator.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.List`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.Generic.List`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.ICollection.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.ICollection.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.IComparer.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.IComparer.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.IDictionary.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.IDictionary.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.IDictionaryEnumerator.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.IDictionaryEnumerator.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.IEnumerable.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.IEnumerable.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.IEnumerator.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.IEnumerator.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.IEqualityComparer.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.IEqualityComparer.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.IList.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.IList.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.IStructuralComparable.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.IStructuralComparable.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.IStructuralEquatable.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Collections.IStructuralEquatable.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Convert.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Convert.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.DateTimeOffset.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.DateTimeOffset.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Delegate.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Delegate.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Exception.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Exception.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.FormatException.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.FormatException.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Guid.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Guid.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.IComparable.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.IComparable.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.IComparable`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.IComparable`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.IDisposable.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.IDisposable.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.IEquatable`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.IEquatable`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.IO.TextWriter.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.IO.TextWriter.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.IObservable`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.IObservable`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.IObserver`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.IObserver`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.IndexOutOfRangeException.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.IndexOutOfRangeException.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Int16.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Int16.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Int32.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Int32.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Int64.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Int64.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.InvalidCastException.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.InvalidCastException.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.InvalidOperationException.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.InvalidOperationException.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Linq.Enumerable.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Linq.Enumerable.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Linq.IGrouping`2.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Linq.IGrouping`2.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Linq.IOrderedEnumerable`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Linq.IOrderedEnumerable`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Object.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Object.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.OperationCanceledException.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.OperationCanceledException.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.OverflowException.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.OverflowException.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Random.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Random.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.SByte.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.SByte.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Text.StringBuilder.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Text.StringBuilder.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Threading.CancellationTokenSource.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Threading.CancellationTokenSource.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Threading.Tasks.Task.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Threading.Tasks.Task.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Threading.Tasks.TaskCanceledException.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Threading.Tasks.TaskCanceledException.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Threading.Tasks.TaskCompletionSource`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Threading.Tasks.TaskCompletionSource`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Threading.Tasks.Task`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.Threading.Tasks.Task`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.TimeoutException.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.TimeoutException.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.UInt16.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.UInt16.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.UInt32.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.UInt32.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\System.UInt64.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\System.UInt64.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.ArrayProxyModule.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.ArrayProxyModule.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.BigIntProxyHelpers.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.BigIntProxyHelpers.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.ByRef`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.ByRef`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.CollectionInternals.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.CollectionInternals.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Collections.BalancedTree.Tree`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Collections.BalancedTree.Tree`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Collections.BalancedTree.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Collections.BalancedTree.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Collections.DictionaryUtil.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Collections.DictionaryUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Collections.HashSetUtil.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Collections.HashSetUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Collections.MapUtil.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Collections.MapUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Collections.Pair`2.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Collections.Pair`2.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Comparers.BaseComparer`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Comparers.BaseComparer`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Comparers.BaseEqualityComparer`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Comparers.BaseEqualityComparer`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Comparers.ComparableComparer`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Comparers.ComparableComparer`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Comparers.EquatableEqualityComparer`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Comparers.EquatableEqualityComparer`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.CompoundComparer`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.CompoundComparer`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Concurrency.AsyncBody`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Concurrency.AsyncBody`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Concurrency.CT.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Concurrency.CT.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Concurrency.Result`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Concurrency.Result`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Concurrency.Scheduler.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Concurrency.Scheduler.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Concurrency.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Concurrency.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Console.ErrorTextWriter.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Console.ErrorTextWriter.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Console.OutTextWriter.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Console.OutTextWriter.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Console.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Console.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Control.DelegateEvent.DelegateEvent`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Control.DelegateEvent.DelegateEvent`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Control.Event.Event`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Control.Event.Event`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Control.HotStream.HotStream`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Control.HotStream.HotStream`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Control.Observable.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Control.Observable.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Control.Observer.Message`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Control.Observer.Message`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Control.Observer.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Control.Observer.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.DateTimeHelpers.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.DateTimeHelpers.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Enumerator.T`2.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Enumerator.T`2.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Enumerator.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Enumerator.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Exception.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Exception.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.FsComparer`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.FsComparer`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Grouping`2.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Grouping`2.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.HtmlContentExtensions.SingleNode.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.HtmlContentExtensions.SingleNode.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.HtmlContentExtensions.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.HtmlContentExtensions.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.IControl.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.IControl.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.IControlBody.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.IControlBody.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.IInitializer.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.IInitializer.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.IRequiresResources.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.IRequiresResources.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.IUniqueIdSource.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.IUniqueIdSource.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.InRef`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.InRef`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.JS.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.JS.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.NonStandardPromiseRejectionException.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.NonStandardPromiseRejectionException.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.Optional`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.Optional`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.Pervasives.DateTime.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.Pervasives.DateTime.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.Pervasives.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.Pervasives.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.Promise.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.Promise.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.Union`2.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.Union`2.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.Union`3.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.Union`3.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.Union`4.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.Union`4.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.Union`5.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.Union`5.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.Union`6.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.Union`6.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.Union`7.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.JavaScript.Union`7.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.LazyExtensionsProxy.LazyRecord`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.LazyExtensionsProxy.LazyRecord`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.N.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.N.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Nullable.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Nullable.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.OrderedEnumerable`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.OrderedEnumerable`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.OutRef`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.OutRef`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.ProjectionComparer`2.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.ProjectionComparer`2.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.QueueProxy.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.QueueProxy.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Remoting.AjaxRemotingProvider.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Remoting.AjaxRemotingProvider.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Remoting.IAjaxProvider.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Remoting.IAjaxProvider.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Remoting.IRemotingProvider.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Remoting.IRemotingProvider.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Remoting.XhrProvider.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Remoting.XhrProvider.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Remoting.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Remoting.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.ReverseComparer`2.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.ReverseComparer`2.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.StackProxy.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.StackProxy.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Utils.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.StdLib\\WebSharper.Utils.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI.Templating.Runtime\\WebSharper.UI.Templating.Runtime.Client.ClientTemplateInstanceHandlers.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI.Templating.Runtime\\WebSharper.UI.Templating.Runtime.Client.ClientTemplateInstanceHandlers.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI.Templating.Runtime\\WebSharper.UI.Templating.Runtime.Client.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI.Templating.Runtime\\WebSharper.UI.Templating.Runtime.Client.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI.Templating.Runtime\\WebSharper.UI.Templating.Runtime.Server.Handler.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI.Templating.Runtime\\WebSharper.UI.Templating.Runtime.Server.Handler.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI.Templating.Runtime\\WebSharper.UI.Templating.Runtime.Server.ProviderBuilder.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI.Templating.Runtime\\WebSharper.UI.Templating.Runtime.Server.ProviderBuilder.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI.Templating.Runtime\\WebSharper.UI.Templating.Runtime.Server.TemplateInitializer.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI.Templating.Runtime\\WebSharper.UI.Templating.Runtime.Server.TemplateInitializer.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI.Templating.Runtime\\WebSharper.UI.Templating.Runtime.Server.TemplateInstance.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI.Templating.Runtime\\WebSharper.UI.Templating.Runtime.Server.TemplateInstance.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\$StartupCode_Abbrev.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\$StartupCode_Abbrev.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\$StartupCode_Animation.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\$StartupCode_Animation.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\$StartupCode_AppendList.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\$StartupCode_AppendList.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\$StartupCode_Attr.Client.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\$StartupCode_Attr.Client.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\$StartupCode_Doc.Proxy.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\$StartupCode_Doc.Proxy.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\$StartupCode_DomUtility.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\$StartupCode_DomUtility.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\$StartupCode_Input.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\$StartupCode_Input.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\$StartupCode_Models.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\$StartupCode_Models.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\$StartupCode_Templates.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\$StartupCode_Templates.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\$StartupCode_Trie.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\$StartupCode_Trie.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Abbrev.Async.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Abbrev.Async.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Abbrev.Dict.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Abbrev.Dict.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Abbrev.Fresh.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Abbrev.Fresh.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Abbrev.HashSet.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Abbrev.HashSet.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Abbrev.Mailbox.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Abbrev.Mailbox.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Abbrev.Slot.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Abbrev.Slot.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Abbrev.Slot`2.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Abbrev.Slot`2.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Anim.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Anim.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Anims.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Anims.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.AppendList.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.AppendList.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Array.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Array.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Attr.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Attr.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.AnimatedAttrNode`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.AnimatedAttrNode`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.Attr.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.Attr.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.Attrs.Dyn.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.Attrs.Dyn.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.Attrs.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.Attrs.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.BindVar.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.BindVar.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.CheckedInput`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.CheckedInput`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.DocElemNode.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.DocElemNode.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.DocNode.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.DocNode.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.Docs.DomNodes.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.Docs.DomNodes.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.Docs.NodeSet.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.Docs.NodeSet.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.Docs.RunState.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.Docs.RunState.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.Docs.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.Docs.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.DynamicAttrNode`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.DynamicAttrNode`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.EltUpdater.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.EltUpdater.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.IAttrNode.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.IAttrNode.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.Settings.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.Settings.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.Templates.Prepare.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.Templates.Prepare.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.Templates.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Client.Templates.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.ConcreteVar`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.ConcreteVar`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Doc.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Doc.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.DomUtility.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.DomUtility.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.DoubleInterpolation.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.DoubleInterpolation.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Easing.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Easing.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Easings.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Easings.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Elt.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Elt.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Extensions.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Extensions.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Flow.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Flow.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.FlowBuilder.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.FlowBuilder.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Flow`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Flow`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.FromView`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.FromView`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.HtmlModule.attr.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.HtmlModule.attr.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.ISnap.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.ISnap.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.InlineControlWithPlaceHolder.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.InlineControlWithPlaceHolder.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Input.KeyListenerSt.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Input.KeyListenerSt.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Input.Keyboard.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Input.Keyboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Input.Mouse.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Input.Mouse.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Input.MouseBtnSt.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Input.MouseBtnSt.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Input.MousePosSt.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Input.MousePosSt.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Input.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Input.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Interpolation.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Interpolation.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Interpolation`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Interpolation`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Key.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Key.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.List.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.List.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.ListModel.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.ListModel.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.ListModel`2.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.ListModel`2.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.ListModels.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.ListModels.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Model.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Model.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Model`2.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Model`2.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.ReactiveExtensions.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.ReactiveExtensions.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Route.T.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Route.T.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Route.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Route.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.RouteMap.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.RouteMap.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Router.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Router.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Routing.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Routing.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Serializer.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Serializer.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Snap.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Snap.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.SnapState`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.SnapState`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Snap`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Snap`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Storage.ArrayStorage`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Storage.ArrayStorage`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Storage.LocalStorageBackend`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Storage.LocalStorageBackend`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Storage.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Storage.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Storage`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Storage`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.String.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.String.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Submitter.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Submitter.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Submitter`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Submitter`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHole.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHole.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.AfterRender.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.AfterRender.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.AfterRenderE.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.AfterRenderE.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.AfterRenderQ.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.AfterRenderQ.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.Attribute.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.Attribute.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.Elt.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.Elt.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.Event.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.Event.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.EventE.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.EventE.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.EventQ.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.EventQ.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.Text.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.Text.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.TextView.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.TextView.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.UninitVar.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.UninitVar.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.VarBool.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.VarBool.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.VarDateTime.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.VarDateTime.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.VarDomElement.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.VarDomElement.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.VarFile.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.VarFile.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.VarFloat.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.VarFloat.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.VarFloatUnchecked.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.VarFloatUnchecked.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.VarInt.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.VarInt.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.VarIntUnchecked.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.VarIntUnchecked.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.VarStr.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.VarStr.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.VarStrList.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.VarStrList.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.TemplateHoleModule.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Trans.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Trans.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Trans`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Trans`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Trie.LookupResult`2.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Trie.LookupResult`2.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Trie.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Trie.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Updates.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Updates.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Var.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Var.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.VarExteions.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.VarExteions.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Var`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.Var`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.View.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.View.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.ViewBuilder.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.ViewBuilder.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.View`1.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.UI\\WebSharper.UI.View`1.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Web\\WebSharper.ClientSideJson.Provider.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Web\\WebSharper.ClientSideJson.Provider.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Web\\WebSharper.Web.Control.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Web\\WebSharper.Web.Control.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Web\\WebSharper.Web.INode.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Web\\WebSharper.Web.INode.js"
+    },
+    {
+      "Id": "C:\\Users\\ipolcz\\source\\repos\\Project21Game\\Project21Game\\wwwroot\\Scripts\\WebSharper\\WebSharper.Web\\WebSharper.Web.IUserSession.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper\\WebSharper.Web\\WebSharper.Web.IUserSession.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Project21Game.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Project21Game.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Project21Game.props",
+      "PackagePath": "build\\Project21Game.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Project21Game.props",
+      "PackagePath": "buildMultiTargeting\\Project21Game.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Project21Game.props",
+      "PackagePath": "buildTransitive\\Project21Game.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
